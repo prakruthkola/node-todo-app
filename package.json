@@ -4,7 +4,8 @@
   "description": "A simple To-Do list application built with Node.js and Express",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "jest"
   },
   "dependencies": {
     "express": "^4.17.1",
