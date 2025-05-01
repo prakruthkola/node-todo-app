@@ -7,7 +7,7 @@ phases:
   build:
     commands:
       - echo "Skipping tests; no jest configured"
-      - echo "Bunccddild phsasehas  completed"
+      - echo "Bunccddild phmdsasehas  completed"
 
 artifacts:
   files:
