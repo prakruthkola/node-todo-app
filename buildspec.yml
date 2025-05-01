@@ -8,6 +8,7 @@ phases:
       - npm install
   build:
     commands:
+      - npm test
       - zip -r app.zip .  # zip files for Elastic Beanstalk deployment
 
 artifacts:
