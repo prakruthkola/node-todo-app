@@ -7,7 +7,7 @@ phases:
   build:
     commands:
       - echo "Skipping tests; no jest configured"
-      - echo "Build haiiis  completed"
+      - echo "Build haiinnis  completed"
 
 artifacts:
   files:
